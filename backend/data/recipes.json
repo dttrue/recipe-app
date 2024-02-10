@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "title": "Lemon Salmon",
+    "category": "Dinner",
+    "ingredients": [
+      "salmon fillet",
+      "lemon",
+      "salt",
+      "pepper",
+      "olive oil",
+      "lemon juice"
+    ],
+    "instructions": "Marinate for 30 minutes and cook.",
+    "image": "salmon.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Pasta Carbonara",
+    "category": "Lunch",
+    "ingredients": [
+      "pasta",
+      "eggs",
+      "bacon",
+      "parmesan cheese",
+      "black pepper"
+    ],
+    "instructions": "Cook pasta, mix with other ingredients.",
+    "image": "pasta.jpeg"
+  },
+  {
+    "id": 3,
+    "title": "Cupcakes",
+    "category": "Dessert",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "eggs",
+      "butter",
+      "vanilla extract",
+      "salt"
+    ],
+    "instructions": "Mix all ingredients and bake for 30 minutes.",
+    "image": "cupcakes.jpeg"
+  },
+  {
+    "id": 4,
+    "title": "Country Breakfast Bowls",
+    "category": "Breakfast",
+    "ingredients": [
+      "2 lbs russet potatoes",
+      "2 tbsp olive oil",
+      "1/2 tsp garlic powder",
+      "1/4 tsp salt",
+      "Freshly craked black pepper",
+      "6 large eggs",
+      "2 tbsp butter",
+      "1 cup shredded sharp cheddar cheese",
+      "1 cup salsa"
+    ],
+    "instructions": " Mix all ingredients and cook for 40 minutes.",
+    "image": "breakfast-bowls.jpeg"
+  },
+  {
+    "id": 5,
+    "title": "Cinnamon Roll",
+    "category": "Dessert",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "eggs",
+      "butter",
+      "vanilla extract",
+      "salt"
+    ],
+    "instructions": "Mix all ingredients and bake for 30 minutes.",
+    "image": "cinnamon-rolls.jpeg"
+  },
+  {
+    "id": 6,
+    "title": "Cookies",
+    "category": "Dessert",
+    "ingredients": [
+      "flour",
+      "sugar",
+      "eggs",
+      "butter",
+      "vanilla extract",
+      "salt"
+    ],
+    "instructions": "Mix all ingredients and bake for 30 minutes.",
+    "image": "cookies.jpeg"
+  }
+]
